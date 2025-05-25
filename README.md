@@ -3,6 +3,7 @@
 A backend API for book exchange, rental, and community features and others.
 
 **🔗 Live Site:** [Bookify](https://bookify06.vercel.app)
+**💻 Frontend Repo:** [GitHub - Bookify Backend](https://github.com/Mdafsarx/Bookify)
 
 ## Technology Stack
 
